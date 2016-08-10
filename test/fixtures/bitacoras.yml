@@ -1,0 +1,37 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  nombre: MyString
+  telefono: 1
+  correo: MyString
+  municipio: MyString
+  estado: MyString
+  area: MyString
+  acreditado: false
+  alcalde: MyString
+  esquema: MyString
+  convenio: false
+  tipo: MyString
+  acuerdo: MyString
+  fechaacuerdo: 2016-06-27
+  fechaseguimiento: 2016-06-27
+  fechaevaluacion: 2016-06-27
+  resultado: MyString
+
+two:
+  nombre: MyString
+  telefono: 1
+  correo: MyString
+  municipio: MyString
+  estado: MyString
+  area: MyString
+  acreditado: false
+  alcalde: MyString
+  esquema: MyString
+  convenio: false
+  tipo: MyString
+  acuerdo: MyString
+  fechaacuerdo: 2016-06-27
+  fechaseguimiento: 2016-06-27
+  fechaevaluacion: 2016-06-27
+  resultado: MyString
